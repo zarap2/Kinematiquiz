@@ -1,6 +1,6 @@
 Kinematiquiz is an interactive Java-based physics trivia games that generates random trivia questions for people to answer, some of which invovle graphing questions. This program is designed for Physics students to test their knowledge in kinematics, so it's highly recommended to
 for general users to review kinematics(including graphs) which is covered in AP Physics 1 or AP Physics C before trying the quiz. The random generation is used using Java rand functions from imported libraries and the graphs are
-created using 2D arrays in Java. The graphing questions require more kinematics, geometry or calculus, and algebra knowledge to solve.
+created using 2D arrays in Java. The graphing questions require more kinematics, geometry or calculus, and algebra knowledge to solve. A video link is at the bottom of this document.
 1. All questions are  randomly generated and  asks for your answer as an input. If it's correct, the program will say correct, if it's incorrect the program will say incorrect
    and show the right answer. Some questions are multiple choice, short answer, or  true/false. Other questionsn involve typing an equation and the program graphs it for you. 
 2. When encountering a graphing question, it will ask if you want a solution. If you say "yes", it will ask for one value and when entering a value it will input it in a y function and show the y solution
@@ -15,4 +15,6 @@ created using 2D arrays in Java. The graphing questions require more kinematics,
 
 I do agree that the program could help with more updates by including more practice questions which file parsing could help, being more clear in displaying the x and y values in
 graphing questions, and also a points system  to make the quiz be more creative and game-like Hopefully, as these updates continue this program can help students excel in kinematics. 
-   .
+Kinematiquiz Walkthrough: https://drive.google.com/file/d/1YH3luTjX1GuxPmMQrgaDqaBW4gAtzhzF/view?usp=sharing
+
+
