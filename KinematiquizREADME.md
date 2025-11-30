@@ -15,6 +15,7 @@ created using 2D arrays in Java. The graphing questions require more kinematics,
 
 I do agree that the program could help with more updates by including more practice questions which file parsing could help, being more clear in displaying the x and y values in
 graphing questions, and also a points system  to make the quiz be more creative and game-like Hopefully, as these updates continue this program can help students excel in kinematics. 
-Kinematiquiz Walkthrough: https://drive.google.com/file/d/1YH3luTjX1GuxPmMQrgaDqaBW4gAtzhzF/view?usp=sharing
+Kinematiquiz Walkthrough: KinematiquizProjectWalkthrough.mp4
+
 
 
